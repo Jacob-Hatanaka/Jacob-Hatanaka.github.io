@@ -11,8 +11,7 @@
     "profiles": [
       { "network": "github", "username": "Jacob-Hatanaka", "url": "https://github.com/Jacob-Hatanaka" },
       { "network": "linkedin", "username": "Jacob Hatanaka", "url": "https://www.linkedin.com/in/jacob-hatanaka/" },
-      //{ "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      //{ "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "Hawaii Slack", "username": "Jacob Hatanaka", "url": "https://hawaii.slack.com/team/U09C3DMM621" }
     ]
   },
   "interests": [
