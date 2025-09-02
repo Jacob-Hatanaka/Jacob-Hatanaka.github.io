@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Rubkix_img.png
 title: "Rubkix"
 date: 2023
 published: true
@@ -11,9 +11,7 @@ summary: "I created a text-displayed 3x3 Rubix cube on Replit which can be turne
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="300px" src="../img/Rubkix_img.png" class="img-thumbnail" >
 </div>
 
 This project was done recreationally by me during my senior year. I wanted to practice coding and was drawn to the idea of coding a Rubix cube that could be turned via Rubix cube notation. From the sites I found, I couldn't find any that allowed you to turn a Rubix Cube via text input. This was frustrating due to the difficulty of turning a Rubix Cube via mouse on a 3d simulated cube. Based on this, I decided to code one via Python on Replit, a free coding platform.
