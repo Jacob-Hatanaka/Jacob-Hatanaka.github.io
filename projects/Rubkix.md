@@ -22,7 +22,8 @@ This project uses 6 arrays of 9 digits to store each side of the Rubix Cube. Eac
 
 Here is an example of the text display:
 
-```                56
+```
+                56
              01 02 03
        57    08 00 04    55
              07 06 05
