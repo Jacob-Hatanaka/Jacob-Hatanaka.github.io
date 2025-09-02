@@ -18,4 +18,6 @@ This project was done for AP Computer Science during my senior year in high scho
 
 The game works by using a custom Game class which initializes the Tetris pieces via a custom Piece class. Pieces have a place function which places the piece onto the Tetris board. The board is displayed on JFrame in order to use the KeyListener function of Java Swing. The KeyListener allows for key inputs from the keyboard, rather than taking an input from console.
 
+This game helped me greatly in my understanding and ability to use UI such as Java Swing. Through this interaction, I was able to understand Key Listeners, a core concept of software design. I also learned about classes and initializing classes as variables; Since each piece was a class, I was able to assign each of them unique shapes while keeping the ability of functions working. I also was able to learn about object cloning in order to preserve the Tetris pieces while also generating them on the Tetris game board. This greatly helped me in further projects related to both software and game development.
+
 You can find the project here: [https://replit.com/@JacobHatanaka/End-Year-project-Tetris?v=1](url).
