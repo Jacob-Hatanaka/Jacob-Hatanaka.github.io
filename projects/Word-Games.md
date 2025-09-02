@@ -20,4 +20,6 @@ This project was done by me recreationally during my senior year of high school.
 
 This project was completed in Java using Java Swing for the User Interface. This includes a main page, which allows you to choose between the two games, and each game. The words are checked from a word list created by dwyl on github. 
 
+This project helped me further my ability to create User Interface and Java Swing. During this project, I used buttons and JFrames to open up two separate games when chosen. The buttons used ActionListeners to read button clicks. This helped me instantiate the windows used for each game via JPanels and JFrames. With the actual content of each game, I was able to learn txt file reading in order to check words inputted. These skills were very beneficial for future projects I created since they set a foundation to learn more.
+
 You can find the project here: [https://replit.com/@JacobHatanaka/Word-Typing-3?v=1](url).
