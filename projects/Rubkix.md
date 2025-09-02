@@ -2,14 +2,12 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+title: "Rubkix"
+date: 2023
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Python
+summary: "I created a text-displayed 3x3 Rubix cube on Replit which can be turned in any direction via text input."
 ---
 
 <div class="text-center p-4">
@@ -18,22 +16,38 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This project was done recreationally by me during my senior year. I wanted to practice coding and was drawn to the idea of coding a Rubix cube that could be turned via Rubix cube notation. From the sites I found, I couldn't find any that allowed you to turn a Rubix Cube via text input. This was frustrating due to the difficulty of turning a Rubix Cube via mouse on a 3d simulated cube. Based on this, I decided to code one via Python on Replit, a free coding platform.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+This project uses 6 arrays of 9 digits to store each side of the Rubix Cube. Each square on the Rubix Cube is labeled from 0-5 in the tens place for the color and 0-8 for the position on the side of the cube. In order to display all sides at the same time, I decided to use a flatened cube layout with the back of the cube displayed on each of the 8 cardinal directions (N, NW, W, SW, etc.). Turning is based on Rubix Cube notation with U, D, L, R, F, B for Up, Down, Left, Right, Front, Back and ' used for counterclockwise turning. 
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is an example of the text display:
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+```                56
+             01 02 03
+       57    08 00 04    55
+             07 06 05
+    71 72 73 11 12 13 31 32 33
+58  78 70 74 18 10 14 38 30 34 54
+    77 76 75 17 16 15 37 36 35
+             41 42 43
+       51    48 40 44    53
+             47 46 45
+                52
+Type to move cube
+(U, U', D, D', L, L', R, R', F, F', B, B')U
+                56
+             07 08 01
+       57    06 00 02    55
+             05 04 03
+    11 12 13 31 32 33 51 52 53
+58  78 70 74 18 10 14 38 30 34 54
+    77 76 75 17 16 15 37 36 35
+             41 42 43
+       71    48 40 44    73
+             47 46 45
+                72
+Type to move cube
+(U, U', D, D', L, L', R, R', F, F', B, B')
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can find the project here: [https://replit.com/@JacobHatanaka/Rubkix](url).
