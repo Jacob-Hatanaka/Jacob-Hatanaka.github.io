@@ -18,6 +18,8 @@ This project was done recreationally by me during my high school junior year. I 
 
 This project uses 6 arrays of 9 digits to store each side of the Rubix Cube. Each square on the Rubix Cube is labeled from 0-5 in the tens place for the color and 0-8 for the position on the side of the cube. In order to display all sides at the same time, I decided to use a flatened cube layout with the back of the cube displayed on each of the 8 cardinal directions (N, NW, W, SW, etc.). Turning is based on Rubix Cube notation with U, D, L, R, F, B for Up, Down, Left, Right, Front, Back and ' used for counterclockwise turning. 
 
+From this project, I was able to further my experience in inputs and array handling; Through moving the cube, an input was required. This required input handling and checking to ensure the right inputs were read. Arrays were also the most important part in getting the Rubix Cube to work. Each turn of the Rubix Cube required a certain switch between array values, which was valuable to my experience with arrays.
+
 Here is an example of the text display:
 
 ```
