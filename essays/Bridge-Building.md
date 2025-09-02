@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-##Bridge Building
+## Bridge Building
 
 	Software engineering, at its core, is similar to the act of building a bridge; One finds a problem in front of them, a river, in this case, and must find a way to cross. You start by analyzing the river, seeing its width, its strength, the height, and plan to build a bridge. Sure you could swim across, but if you know you must cross multiple times, a bridge would surely work better. In this way, I find software engineering very similar to building bridges. You start by analyzing what exactly you are trying to build, its restraints, and how you will build it. Finally, you find yourself finished with an immense feeling of accomplishment. 
  
