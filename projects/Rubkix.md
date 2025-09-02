@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Rubkix_img.png
 title: "Rubkix"
-date: 2023
+date: 2022
 published: true
 labels:
   - Python
@@ -14,7 +14,7 @@ summary: "I created a text-displayed 3x3 Rubix cube on Replit which can be turne
   <img width="300px" src="../img/Rubkix_img.png" class="img-thumbnail" >
 </div>
 
-This project was done recreationally by me during my senior year. I wanted to practice coding and was drawn to the idea of coding a Rubix cube that could be turned via Rubix cube notation. From the sites I found, I couldn't find any that allowed you to turn a Rubix Cube via text input. This was frustrating due to the difficulty of turning a Rubix Cube via mouse on a 3d simulated cube. Based on this, I decided to code one via Python on Replit, a free coding platform.
+This project was done recreationally by me during my high school junior year. I wanted to practice coding and was drawn to the idea of coding a Rubix cube that could be turned via Rubix cube notation. From the sites I found, I couldn't find any that allowed you to turn a Rubix Cube via text input. This was frustrating due to the difficulty of turning a Rubix Cube via mouse on a 3d simulated cube. Based on this, I decided to code one via Python on Replit, a free coding platform.
 
 This project uses 6 arrays of 9 digits to store each side of the Rubix Cube. Each square on the Rubix Cube is labeled from 0-5 in the tens place for the color and 0-8 for the position on the side of the cube. In order to display all sides at the same time, I decided to use a flatened cube layout with the back of the cube displayed on each of the 8 cardinal directions (N, NW, W, SW, etc.). Turning is based on Rubix Cube notation with U, D, L, R, F, B for Up, Down, Left, Right, Front, Back and ' used for counterclockwise turning. 
 
