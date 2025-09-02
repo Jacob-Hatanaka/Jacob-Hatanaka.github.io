@@ -15,6 +15,6 @@ Software engineering, at its core, is similar to the act of building a bridge; O
 
 ## Programming
  
-This is joy that gravitates me towards programming; The feeling of solving a problem with a working solution is jubilant. I find myself led to software engineering in the way that it helps create solutions to problems that help you complete a task at much higher efficiency. I also find myself led to a more open-faced problem: boredom. I enjoy games and their immense variety and wish to create something that helps others stave off boredom. 
+The feeling of solving a problem with a working solution is jubilant. This is joy that gravitates me towards programming; I find myself led to software engineering in the way that it helps create solutions to problems that help you complete a task at much higher efficiency. I find myself in the same way led to a more open-faced problem: boredom. The solution? Games. I enjoy games and their immense variety and wish to eventually create something that can help others stave off boredom. 
  
 Towards this effort, I hope to develop the skills required to build and create. I hope to learn how to handle and store data. I wish to develop skills in languages like TypeScript to allow work on websites and the like; To learn about the depths required to implement high quality User Interfaces through JavaScript. These skills will boost my ability to craft usable designs of software, be that through helpful applications or games. I hope to develop these in order to become a more well rounded programmer and write better code.
