@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Tetris_img.png
+image: img/TetrisSquare.png
 title: "Text Tetris"
 date: 2023
 published: true
