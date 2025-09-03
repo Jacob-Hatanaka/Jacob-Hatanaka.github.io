@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Rubkix_img.png
+image: img/RubkixSquare.png
 title: "Rubkix"
 date: 2022
 published: true
