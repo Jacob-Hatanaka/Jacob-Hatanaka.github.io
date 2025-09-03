@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/WordGames.png
+image: img/WordGamesSquare.png
 title: "Word Games"
 date: 2023
 published: true
