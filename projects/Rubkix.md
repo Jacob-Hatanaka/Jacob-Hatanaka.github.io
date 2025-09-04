@@ -52,3 +52,5 @@ Type to move cube
 ```
 
 You can find the project here: [https://replit.com/@JacobHatanaka/Rubkix](url).
+
+Note: Certain Wifi may block Replit from running properly
