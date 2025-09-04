@@ -18,3 +18,5 @@ Another difference is in the ability of Mapping Types. This feature allows you t
 
 ## My Thoughts
 I enjoyed learning about TypeScript, as it let me learn a new language. I previously had zero experience with JavaScript and therefore TypeScript. The WODs also were helpful in helping flush out my familiarity with TypeScript. They allow you to test your ability with the language while also practicing different scenarios. I believe that overall, learning TypeScript and being able to apply those skills has been very helpful to me. 
+
+Hopefully by sharpening my skills with TypeScript, it’ll both increase my skill in the language and also reflect an improvement in other languages. 
