@@ -10,11 +10,11 @@ labels:
 ---
 
 ## My Experience
-I only recently learned Typescript over the past two weeks. I find it to be somewhat different from the languages I’m used to in terms of syntax: Differences in variable & function declaration, different functions and imports, and data type names. Despite this, like most languages, the general method of coding is very similar to what I’m used to.
+I only recently learned Typescript over the past two weeks. I find it to be somewhat different from the languages I’m used to in terms of syntax: Differences in variable & function declaration, different functions and imports, and data type names. Despite this, like most languages, the general method of coding is very similar to what I’m used to. This helped me adapt to the language quickly and get into what really interested me: TypeScript’s significant differences.
 
 ## Significant Differences
 One significant difference I’ve found is the ability to specify different return types via the ‘|’ operator. This seems very interesting compared to other languages which only allow one return type. This can be used for functions which may relay different information based on subclass differences or parameters.
 Another difference is in the ability of Mapping Types. This feature allows you to iterate over groups of data, changing the variable’s types and similar data. This seems useful in altering higher levels of data that are usually immutable.
 
 ## My Thoughts
-I enjoyed learning about TypeScript, as it let me learn a new language. I previously had zero experience with JavaScript and therefore TypeScript. The WODs also were helpful in helping flush out my familiarity with TypeScript. They allow you to test your ability with the language while also practicing different scenarios. I believe that overall, learning TypeScript and being able to apply those skills has been very helpful to me.
+I enjoyed learning about TypeScript, as it let me learn a new language. I previously had zero experience with JavaScript and therefore TypeScript. The WODs also were helpful in helping flush out my familiarity with TypeScript. They allow you to test your ability with the language while also practicing different scenarios. I believe that overall, learning TypeScript and being able to apply those skills has been very helpful to me. 
