@@ -9,7 +9,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/queryimg.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/Queryimg.png">
 
 ## Why Ask Questions?
 
