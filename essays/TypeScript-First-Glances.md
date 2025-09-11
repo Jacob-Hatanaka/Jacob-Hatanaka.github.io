@@ -9,6 +9,8 @@ labels:
   - TypeScript
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/typescript101img.png">
+
 ## My Experience
 I only recently learned Typescript over the past two weeks. I find it to be somewhat different from the languages I’m used to in terms of syntax: Differences in variable & function declaration, different functions and imports, and data type names. Despite this, like most languages, the general method of coding is very similar to what I’m used to. This helped me adapt to the language quickly and get into what really interested me: TypeScript’s significant differences.
 
