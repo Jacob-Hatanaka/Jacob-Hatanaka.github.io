@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/bridgebuildingimg.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/bridgebuildingimg.jpg">
 
 ## Bridge Building
 
