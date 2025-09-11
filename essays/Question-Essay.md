@@ -9,6 +9,8 @@ labels:
   - StackOverflow
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/queryimg.png">
+
 ## Why Ask Questions?
 
 When writing code, you often meet errors upon errors. Sometimes you even find yourself writing solutions to bugs and issues that themselves contain errors. In times like these, it can be frustrating due to a complete lack of direction towards what you are even trying to fix. In this way, it can be extremely helpful to seek guidance from others, by asking questions.
