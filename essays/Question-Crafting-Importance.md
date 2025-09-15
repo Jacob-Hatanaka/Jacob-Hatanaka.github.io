@@ -6,6 +6,7 @@ title: "The Importance of Crafting Great Questions"
 date: 2025-09-10
 published: true
 labels:
+ - Questions
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/Queryimg.png">
