@@ -18,7 +18,7 @@ ESLint is an open source project that helps you find and fix problems in your co
 
 ## Code Readability
 
-Code readability helps any person reading code understand what task the code does and how it completes said task. This is completed through syntax, naming, and comments. Syntax such as spacing can allow one to see how code flows, especially in situations that require several brackets (like with if statements, for or while loops, or functions). Naming variables requires proper capitalization and names related to what is being defined. This helps the reader understand what each variable does upon first glance. Comments are likely the most important part of code readability because it tells you exactly what your code does. This helps others reading your code and also yourself as in case you forget what you have coded.
+Code readability helps any person reading code understand what task the code does and how it completes said task. This is completed through syntax, naming, and comments. Syntax such as spacing can allow one to see how code flows, especially in situations that require several brackets (like with if statements, for or while loops, or functions). Naming variables requires proper capitalization and names related to what is being defined. This helps the reader understand what each variable does upon first glance. Comments are likely the most important part of code readability because it tells you exactly what your code does. This helps others reading your code and also yourself as in case you forget what you have coded. In the end, what you are left with is well formatted code that explains its process each step of the way.
 
 ## Overview
 
