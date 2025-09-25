@@ -14,7 +14,7 @@ labels:
 
 ## ESLint
 
-ESLint is an open source project that helps you find and fix problems in your code. Namely, ESLint solves syntax errors that cause your code to be less readable. From my experience with ESLint, fixing syntax errors can be quite frustrating and feel like a waste of time, but this all comes with a great positive. This is seen in the uniformity of code after successfully fixing all syntax errors. Although code readability seems unnecessary for small projects, for shared work or work that is done over a span of time, the ability for code to be read and understood is very important. 
+ESLint is an open source project that helps you find and fix problems in your code. Namely, ESLint solves syntax errors that cause your code to be less readable. From my experience with ESLint, fixing syntax errors can be quite frustrating and take a noticeable portion of time, but this all comes with a great positive. This is seen in the uniformity of code after successfully fixing all syntax errors. Although code readability seems unnecessary for small projects, for shared work or work that is done over a span of time, the ability for code to be read and understood is very important. 
 
 ## Code Readability
 
