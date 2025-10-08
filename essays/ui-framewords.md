@@ -22,11 +22,11 @@ Although UI Framework can create sites using different tools, the product it cre
 
 without Bootstrap 5
 
-<img width="300px" class="rounded float-start pe-4" src="../img/murphyswebpage.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/typescriptpg.png">
 
 with Bootstrap 5
 
-<img width="300px" class="rounded float-start pe-4" src="../img/murphyreplicapage.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/tscopypg.png">
 
 ## Takeaways
 
