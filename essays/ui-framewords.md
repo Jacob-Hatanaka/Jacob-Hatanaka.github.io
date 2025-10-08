@@ -28,6 +28,8 @@ with Bootstrap 5
 
 <img width="300px" class="rounded float-start pe-4" src="../img/tscopypg.png">
 
+
+
 ## Takeaways
 
 Using any UI Framework allows one to code the same UI, but faster. This is why they are beneficial to learn, despite the fact that its extra content. Using UI Frameworks will make your code in html and css faster, cleaner, and more understandable
