@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Faster UI with UI Frameworks"
+title: "Easier UI with UI Frameworks"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-10
+date: 2025-10-08
 published: true
 labels:
- - Questions
+ - UI Frameworks
+ - Bootstrap 5
 ---
 
 ## UI Frameworks
@@ -19,7 +20,11 @@ I have been using Bootstrap 5 as a UI Framework. Through it, I have found implem
 
 Although UI Framework can create sites using different tools, the product it creates can still be the same as one not implementing UI Framework. This means that UI Framework does not affect the final product of web design, but simply makes it easier to get to this final product. This can be seen in the example under, which displays a website made with and without Bootstrap 5.
 
-<img src=''>
+without Bootstrap 5
+<img width="300px" class="rounded float-start pe-4" src="../img/murphyswebpage.png">
+
+with Bootstrap 5
+<img width="300px" class="rounded float-start pe-4" src="../img/murphysreplicapage.png">
 
 ## Takeaways
 
