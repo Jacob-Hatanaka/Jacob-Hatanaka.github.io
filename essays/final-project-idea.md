@@ -37,6 +37,4 @@ Search system for projects rather than list based on project tabs
 Categories and subcategories for forms editable by admins, rather than just a list of parameters to fill out on each form
 Quick checks for each parameter on information required
 
-##
-
 Essay collaboratively written by Jacob Hatanaka and Renjie Chen
