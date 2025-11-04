@@ -8,17 +8,17 @@ labels:
   - Nextjs
 ---
 
-ETS Project Organizer
+## ETS Project Organizer
 
-Overview
+## Overview
 The problem: Enterprise Technology Services has an issue with listing and viewing project reviews on their website. They find that their current system has no sort of organized rules and regulations, causing discord in creating reviews based on order of components, information included, and general style of each review. 
 
 The solution: Our solution allows for a dynamic review form on our website, which allows users and admins to use forms to organize data. Admins will be able to edit the fields the users fill out in their review creation forms. Users will then be able to fill out forms including all these fields to create a systemized form of review creation. 
 
-Approach
+## Approach
 We will approach this problem using the nextjs template as a basis for our design. We will customize the site to allow admins a new page that allows editing of form parameters. The users will only be able to view and create forms. Also, we will allow users who are not signed in to view projects but not submit or edit them. We are primarily using nextjs, postgresql, and javascript in order to easily implement each feature with our partial experience with these tools. 
 
-Use Cases
+## Use Cases
 
 Our use cases mainly branch into each use case for each type of user (guest, user, and admin).
 
@@ -27,7 +27,7 @@ New or default user goes to landing page, goes to project list, selects and view
 User or admin goes to landing page, goes to create project form, fills out form and submits new project review
 Admin goes to landing page, goes to admin page, edits parameters for forms or removes form
 
-Beyond the Basics
+## Beyond the Basics
 
 After implementing the basic formatting of our app, we have some additional features that can be explored
 
