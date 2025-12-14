@@ -16,8 +16,6 @@ labels:
 
 With the ever-changing prevalence of AI in the current education sphere, it finds itself very present, especially in computer science. This is due to the ability of AI to simply create blocks of code itself, without the need for understanding on the user side. Throughout the course of my Software Engineering course, I had found myself rarely using AI due to my reluctance to it in regards to learning. I had, however, used it somewhat via ChatGPT and Co-Pilot.
 
----
-
 ## Personal Experience with AI
 
 In my software engineering class, my use of AI can be concluded with the following list.
@@ -68,33 +66,23 @@ For quality assurance, most issues were easily resolvable since I did not go int
 
 #### Other uses in ICS 314 not listed​
 
-I do not believe that I have used AI for much else in this course and prefer doing things without it unless it is for a project or personal project due to how it limits learning and understanding (in most, but not all, cases of use).
-
----​
+I do not believe that I have used AI for much else in this course and prefer doing things without it unless it is for a project or personal project due to how it limits learning and understanding (in most, but not all, cases of use).​
 
 ## Learning with AI​
 
 Overall, I feel that AI does limit learning if you are using it to create code for you. This is because, in those cases, you do not often understand how or why it uses each method to find the solution to your problem. This leads to a gap in understanding between you and the concepts you are learning. However, this does not mean that AI is completely bad; AI can be used to explain code, which can actually boost understanding if one has not used it. It can also create unique problems to solve, which can be a good practice in learning.
 
----
-
 ## Practical Applications of AI
 
 As stated above, AI can be helpful in explaining and teaching code. In addition to this, AI can be used for certain problems that do not fit static definitions. For example, if you were to describe a car and were looking for similar cars, AI could be used to find one without the need for another person. This solves issues with software engineering where you would not need specific categories like SUV, truck, or van, but instead return general similarities.
 
----
-
 ## Challenges and Opportunities
 
-AI provides challenges to student learning due to the ease of use it provides in simply bypassing any need for understanding code. This is both beneficial and detrimental. It is detrimental to students who need to learn key concepts in computer science and skip them due to the use of AI. The other side of this situation is that students can skip unnecessary concepts like specific uses of API or other such things. If a student is never going to use certain functions or documentation for certain, they can use AI to quickly grasp and use the code even without understanding. This can bypass hours of reading when understanding is not required.
-
----​
+AI provides challenges to student learning due to the ease of use it provides in simply bypassing any need for understanding code. This is both beneficial and detrimental. It is detrimental to students who need to learn key concepts in computer science and skip them due to the use of AI. The other side of this situation is that students can skip unnecessary concepts like specific uses of API or other such things. If a student is never going to use certain functions or documentation for certain, they can use AI to quickly grasp and use the code even without understanding. This can bypass hours of reading when understanding is not required.​
 
 ## Future Considerations​
 
-I believe it is ignorant to ignore the ability of AI to simplify work in any situation. This is due to the fact that AI will not degrade and will only improve with time. As AI improves, people will need to adapt to its capabilities, or they will only find themselves worse off than others. The most important thing regarding AI is the direction of use. AI is simply a tool, and like any other tool, AI can be used in good or bad ways. The direction in which one uses it defines how it helps or hurts.
-
----​
+I believe it is ignorant to ignore the ability of AI to simplify work in any situation. This is due to the fact that AI will not degrade and will only improve with time. As AI improves, people will need to adapt to its capabilities, or they will only find themselves worse off than others. The most important thing regarding AI is the direction of use. AI is simply a tool, and like any other tool, AI can be used in good or bad ways. The direction in which one uses it defines how it helps or hurts.​
 
 ## Conclusion​
 
