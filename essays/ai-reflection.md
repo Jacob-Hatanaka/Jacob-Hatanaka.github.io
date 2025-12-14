@@ -12,39 +12,23 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/ai.jpg">
 
-Use of AI in Software Engineering
-
-​
+## Use of AI in Software Engineering​
 
 With the ever-changing prevalence of AI in the current education sphere, it finds itself very present, especially in computer science. This is due to the ability of AI to simply create blocks of code itself, without the need for understanding on the user side. Throughout the course of my Software Engineering course, I had found myself rarely using AI due to my reluctance to it in regards to learning. I had, however, used it somewhat via ChatGPT and Co-Pilot.
 
-​
-
-Personal Experience with AI
-
-​
+## Personal Experience with AI
 
 In my software engineering class, my use of AI can be concluded with the following list.
 
-​
-
-Experience in WODs, In-class Practice WODs, In-class WODs
-
-​
+### Experience in WODs, In-class Practice WODs, In-class WODs
 
 WOD pertains to work of the day, meaning coding exercises assigned to us as homework, in-class practices, and graded in-class WODs. Regarding these WODs, I did not use AI since I believed it would help most to my practice and understanding to create code myself. This would familiarize me with writing it, so that I could customize it in future projects. I mainly used online resources like documentation and StackOverflow to help me.
 
-​
-
-Essays
-
-​
+### Essays
 
 In regards to essays, I did not use AI due to the fact that it seemed generic in the output it gives. I find that if I write essays myself, it helps my skill in creative writing and allows me to write essays faster overall.
 
-​
-
-Final project
+### Final project
 
 ​
 
@@ -52,7 +36,7 @@ For the final project, I used AI frequently to write code. This is due to the fa
 
 ​
 
-Learning a concept / tutorial
+### Learning a concept / tutorial
 
 ​
 
@@ -60,7 +44,7 @@ For learning tutorials and concepts, I did not use AI. This is because all the r
 
 ​
 
-Answering a question in class or in Discord
+### Answering a question in class or in Discord
 
 ​
 
@@ -68,7 +52,7 @@ For most questions I had in class, I had always found a StackOverflow question a
 
 ​
 
-Asking or answering a smart question
+### Asking or answering a smart question
 
 ​
 
@@ -76,7 +60,7 @@ For smart questions, I found that most answers could be found already solved on 
 
 ​
 
-Coding example, e.g., “give an example of using Underscore. pluck.”
+### Coding example, e.g., “give an example of using Underscore. pluck.”
 
 ​
 
@@ -84,7 +68,7 @@ Most issues of coding examples were already provided in tutorials that taught th
 
 ​
 
-Explaining code
+### Explaining code
 
 ​
 
@@ -92,7 +76,7 @@ In regard to explaining code. I had used AI for Regex (regular expressions) due 
 
 ​
 
-Writing code
+### Writing code
 
 ​
 
@@ -100,7 +84,7 @@ For writing code, I did not use AI in this course. This is because writing code 
 
 ​
 
-Documenting code
+### Documenting code
 
 ​
 
@@ -108,7 +92,7 @@ For documenting code, I found it was easier to document the code myself, since i
 
 ​
 
-Quality assurance, e.g., “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>.”
+### Quality assurance, e.g., “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>.”
 
 ​
 
@@ -116,7 +100,7 @@ For quality assurance, most issues were easily resolvable since I did not go int
 
 ​
 
-Other uses in ICS 314 not listed
+### Other uses in ICS 314 not listed
 
 ​
 
@@ -124,7 +108,7 @@ I do not believe that I have used AI for much else in this course and prefer doi
 
 ​
 
-Learning with AI
+## Learning with AI
 
 ​
 
@@ -132,7 +116,7 @@ Overall, I feel that AI does limit learning if you are using it to create code f
 
 ​
 
-Practical Applications of AI
+## Practical Applications of AI
 
 ​
 
@@ -140,7 +124,7 @@ As stated above, AI can be helpful in explaining and teaching code. In addition 
 
 ​
 
-Challenges and Opportunities
+## Challenges and Opportunities
 
 ​
 
@@ -148,7 +132,7 @@ AI provides challenges to student learning due to the ease of use it provides in
 
 ​
 
-Future Considerations
+## Future Considerations
 
 ​
 
@@ -156,7 +140,7 @@ I believe it is ignorant to ignore the ability of AI to simplify work in any sit
 
 ​
 
-Conclusion
+## Conclusion
 
 ​
 
