@@ -1,3 +1,17 @@
+---
+layout: essay
+type: essay
+title: "Effort Tracking to Steady One's Way"
+# All dates must be YYYY-MM-DD format!
+date: 2025-09-02
+published: true
+labels:
+  - Software Engineering
+  - Effort Tracking
+---
+
+<img width="300px" class="rounded float-start pe-4" src="../img/deadline.png">
+
 ## The Use of Effort Tracking Tools
 
 Effort tracking tools are highly useful in my opinion. This is because effort tracking tools show how much work each individual is putting into their work and the project. In my final project, the main way effort was tracked was through issues completed and time put into work. This was mainly done through simple time tracking on the part of each team member. Most often, I simply took a start and end time for each issue and wrote it as my time.
