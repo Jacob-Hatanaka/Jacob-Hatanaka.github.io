@@ -60,7 +60,7 @@ For writing code, I did not use AI in this course. This is because writing code 
 
 For documenting code, I found it was easier to document the code myself, since it seemed faster than prompting AI.​
 
-### Quality assurance, e.g., “What’s wrong with this code <code here>” or “Fix the ESLint errors in code here.”
+### Quality assurance, e.g., "What’s wrong with this code code here" or “Fix the ESLint errors in code here."
 
 For quality assurance, most issues were easily resolvable since I did not go into code that was too complicated. For ESLint errors, for example, errors were stated in the IDE that gave the line and the exact issue present.​
 
