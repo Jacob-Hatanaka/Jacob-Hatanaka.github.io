@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Effort Tracking to Steady One's Way"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-02
+date: 2025-12-14
 published: true
 labels:
   - Software Engineering
