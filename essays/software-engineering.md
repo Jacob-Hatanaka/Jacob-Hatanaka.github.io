@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+title: "Software Engineering"
+# All dates must be YYYY-MM-DD format!
+date: 2025-12-17
+published: true
+labels:
+  - Software Engineering
+---
+
+<img width="300px" class="rounded float-start pe-4" src="../img/webdevo.png">
+
 ## Software Engineering
 
 Software engineering consists of some of the most important parts of computer science, including coding ethics, coding standards, and tools used to code.My software engineering class taught me a lot regarding these topics and helped me consolidate my understanding of them. Throughout the course, I practiced many different skills in coding and learned many new coding techniques, including coding databases, websites, using Javascript and Typescript, and navigating the command terminal.
