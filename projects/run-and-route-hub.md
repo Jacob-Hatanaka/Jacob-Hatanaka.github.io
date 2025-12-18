@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/rrh.png
+image: img/rrhsquare.png
 title: "Run & Route Hub"
 date: 2025
 published: true
